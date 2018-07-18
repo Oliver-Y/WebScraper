@@ -1,0 +1,19 @@
+header: [<div class="caption">
+<h4 class="pull-right price">$1399.00</h4>
+<h4>
+<a href="/test-sites/e-commerce/allinone/product/247" class="title" title="Lenovo Legion Y720">Lenovo Legion Y7...</a>
+</h4>
+<p class="description">Lenovo Legion Y720, 15.6&quot; FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 2TB HDD, GeForce GTX 1060 6GB, DOS, RGB backlit keyboard</p>
+</div>, <div class="caption">
+<h4 class="pull-right price">$1244.99</h4>
+<h4>
+<a href="/test-sites/e-commerce/allinone/product/232" class="title" title="ThinkPad X230">ThinkPad X230</a>
+</h4>
+<p class="description">12.5&quot;, Core i5 2.6GHz, 8GB, 180GB SSD, Win7 Pro 64bit</p>
+</div>, <div class="caption">
+<h4 class="pull-right price">$1223.99</h4>
+<h4>
+<a href="/test-sites/e-commerce/allinone/product/234" class="title" title="ThinkPad Yoga">ThinkPad Yoga</a>
+</h4>
+<p class="description">12.5&quot; Touch, Core i5 4200U, 8GB, 500GB + 16GB SSD Cache, Windows</p>
+</div>]
